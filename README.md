@@ -12,5 +12,6 @@ Aufbereitung: Max Friedrich Hartmann (@mxfh) im Rahmen des OpenDataDay 2013 Berl
 ![LORs Berlin](https://github.com/mxfh/LOR-Berlin/raw/master/lor.png "LOR Berlin")
 
 ![LORs Berlin](https://github.com/mxfh/LOR-Berlin/raw/master/lor-seniors.png "LOR Berlin")
+
 Demographic data: 2012-12 Seniors age 65 to 80 as percentage of LOR population. Green: High, Turquoise: Low.
 

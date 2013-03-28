@@ -15,3 +15,5 @@ Aufbereitung: Max Friedrich Hartmann (@mxfh) im Rahmen des OpenDataDay 2013 Berl
 
 Demographic data: 2012-12 Seniors age 65 to 80 as percentage of LOR population. Green: High, Turquoise: Low.
 
+Created with Kartograph.py
+
